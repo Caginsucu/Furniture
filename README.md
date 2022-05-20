@@ -1,5 +1,7 @@
 # Furniture
-## I coded an example thinking of a furniture store <br>
+## I coded an example of a furniture store <br>
+
+✨ Inspiration = https://www.behance.net/angelinavasilik1  <--- 👍🏼 <br>
 
 LIVE PREVIEW : https://caginsucu.github.io/Furniture/ <br>
 
